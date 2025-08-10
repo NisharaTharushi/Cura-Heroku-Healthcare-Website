@@ -45,8 +45,6 @@ Each page and feature is handled by dedicated test files and Page Object classes
 
     Automation Tool: Selenium WebDriver
 
-    Testing Framework: Pytest
-
     Design Pattern: Page Object Model (POM)
 
     Browser Drivers: ChromeDriver and GeckoDriver (Firefox)
