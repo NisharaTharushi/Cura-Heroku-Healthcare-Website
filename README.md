@@ -5,7 +5,7 @@ This project contains automated test scripts written in Python using Selenium We
 
 🔗 [Katalon CURA Healthcare Service](https://katalon-demo-cura.herokuapp.com/)
 
-Katalon Demo CURA is a simple web application for booking healthcare appointments. It includes features like user login, appointment scheduling, confirmation, and a sidebar navigation menu — making it ideal for practicing UI test automation with real-world flows.
+Katalon CURA is a simple web application for booking healthcare appointments. It includes features like user login, appointment scheduling, confirmation, and a sidebar navigation menu — making it ideal for practicing UI test automation with real-world flows.
 
 ### ✅ What This Project Covers
 
